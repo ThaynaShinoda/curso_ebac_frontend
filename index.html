@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício Módulo 07</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Exercício - Validação</h1>
+        <p>
+            Preencha os campos com números
+        </p>
+    </header>
+    <div class="container" >
+        <form id="form-verificacao">
+            <input type="number"  id="campoA" placeholder="Campo A" required>
+            <input type="number"  id="campoB" placeholder="Campo B" required>
+            <button type="submit" id="btn-verificar">Verificar</button>
+        </form>
+        <p id="valido"></p>
+        <p id="invalido"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
