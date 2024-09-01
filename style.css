@@ -1,0 +1,92 @@
+@charset "UTF-8";
+:root {
+    --cor1: #F69C9E;
+    --cor2: #F2D9C5;
+    --cor3: #909B71;
+    --cor4: #F9D59B;
+    --cor5: #F6C8B8;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: var(--cor4);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor1);
+    padding: 20px 0px;
+    border-bottom: 10px solid var(--cor5);
+}
+
+header h1 {
+    color: var(--cor4);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.301);
+}
+
+form {
+    text-align: center;
+    align-items: center;
+    padding: 20px 0px;
+    background-color: var(--cor2);
+}
+
+#input-item {
+    border: none;
+    width: 350px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px;
+    
+}
+
+#btn-adicionar {
+    border: none;
+    border-radius: 10px;
+    padding: 0px 10px;
+    margin-left: 18px;
+    background-color: var(--cor3);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#btn-adicionar:hover {
+    background-color: var(--cor1);
+    color:white;
+}
+
+ul#lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+ul li {
+    font-size: 24px;
+    list-style-type: decimal;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul li::first-letter {
+    text-transform: uppercase;
+}
+
+.complete {
+    text-decoration: line-through;
+}
