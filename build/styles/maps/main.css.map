@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAGA,KACI,iBAJW,QAOf,GACI,MAPY,QAUhB,EACI,MAXY","file":"../main.css","sourcesContent":["$corPrincipal: darkred;\r\n$corSecundaria: darkorange;\r\n\r\nbody {\r\n    background-color: $corPrincipal;\r\n}\r\n\r\nh1 {\r\n    color: $corSecundaria;\r\n}\r\n\r\np {\r\n    color: $corSecundaria;\r\n}"]}

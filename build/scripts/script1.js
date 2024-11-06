@@ -1,0 +1,1 @@
+function soma(o,s){return o+s}console.log("Esse é o texto 1"),console.log("Esse é o texto 2"),console.log(soma(10,10));
