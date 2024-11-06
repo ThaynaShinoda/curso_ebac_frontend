@@ -7,3 +7,4 @@
 - Adicionado exercício do módulo 9 na branch exercicio_jquery
 - Adicionado exercício de módulo 12 na branch exercicio_bootstrap
 - Adicionado exercício do módulo 15 na branch exercicio_sass
+- Adicionado exercício do módulo 16 na branch exercicio_gulp
