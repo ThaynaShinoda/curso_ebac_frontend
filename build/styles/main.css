@@ -20,6 +20,11 @@ li {
     max-width: 80%;
   }
 }
+@media (max-width: 767px) {
+  .container {
+    max-width: 80%;
+  }
+}
 header {
   background-color: #182C61;
   position: sticky;
