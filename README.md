@@ -10,5 +10,3 @@
 - Adicionado exercício do módulo 16 na branch exercicio_gulp
 - Adicionado exercício do módulo 17 na branch exercicio_less
 - Adicionado exercício do módulo 18 na branch exercicio_grunt
-
-![Gif](https://tenor.com/pt-BR/view/peach-goma-pc-keyboard-gif-14749703951530672101)
