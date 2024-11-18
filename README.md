@@ -1,5 +1,7 @@
-"Hello EBAC" 
+# Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
+## Exercício do Módulo 4
+
+1. Criar mais duas seções no layout criado durante o módulo, por exemplo: entretenimento e tecnologia, as novas seções devem conter outras notícias e diferentes cores;
+2. Enviar os arquivos para o Github em uma branch chamada exercício_css;
+3. Enviar o link na plataforma.
