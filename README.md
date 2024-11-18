@@ -1,10 +1,11 @@
-"Exercícios EBAC" 
+# Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
-- Adicionado exercício do módulo 7 na branch exercicio_html_js
-- Adicionado exercício do módulo 9 na branch exercicio_jquery
-- Adicionado exercício de módulo 12 na branch exercicio_bootstrap
-- Adicionado exercício do módulo 15 na branch exercicio_sass
-- Adicionado exercício do módulo 16 na branch exercicio_gulp
+## Exercício do Módulo 16
+
+1. Criar um arquivo Gulpfile que deverá executar as tarefas:
+    * compilação do SASS;
+    * compressão de imagens disponibilizadas no Material de apoio;
+    * compressão de código JavaScript.
+2. Criar um branch chamada exercicio_gulp.
+3. Armazenar o projeto completo, incluindo o arquivo Gulpfile, neste branch.
+4. Enviar o link do repositório através da plataforma.
