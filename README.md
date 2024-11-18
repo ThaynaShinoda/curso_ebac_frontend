@@ -1,9 +1,9 @@
-"Exercícios EBAC" 
+# Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
-- Adicionado exercício do módulo 7 na branch exercicio_html_js
-- Adicionado exercício do módulo 9 na branch exercicio_jquery
-- Adicionado exercício de módulo 12 na branch exercicio_bootstrap
-- Adicionado exercício do módulo 15 na branch exercicio_sass
+## Exercício do Módulo 15
+
+1. Converter o CSS do projeto disponibilizado na área "Material de apoio" para o SASS;
+2. Utilizar as variáveis do SASS;
+3. Utilizar os módulos do SASS;
+4. Criar uma branch chamada exercicio_sass no repositório do curso;
+5. Armazenar os arquivos SASS nesta branch e enviar o link do repositório através da plataforma.
