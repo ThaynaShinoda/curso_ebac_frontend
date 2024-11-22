@@ -1,12 +1,7 @@
 # Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
-- Adicionado exercício do módulo 7 na branch exercicio_html_js
-- Adicionado exercício do módulo 9 na branch exercicio_jquery
-- Adicionado exercício de módulo 12 na branch exercicio_bootstrap
-- Adicionado exercício do módulo 15 na branch exercicio_sass
-- Adicionado exercício do módulo 16 na branch exercicio_gulp
-- Adicionado exercício do módulo 17 na branch exercicio_less
-- Adicionado exercício do módulo 18 na branch exercicio_grunt
+## Exercício do módulo 19
+1.  Os arquivos estão disponibilizados abaixo, no material de apoio. O HTML fornecido já possui classes; atualize essas classes de acordo com a Metodologia BEM. Ou seja, faça a separação em blocos, elementos e/ou modificadores.
+2. Após a conclusão da marcação HTML, prossiga para a transcrição do CSS, utilizando o sistema de blocos, elementos e/ou modificadores.
+3. A escolha da abordagem para a transcrição dos estilos é livre: você pode optar por utilizar SASS, LESS ou até mesmo redigir as atualizações diretamente no CSS puro.
+4. O exercício deve ser entregue por meio do GitHub e armazenado na branch "boas_praticas_css" do seu repositório. Caso tenha utilizado algum pré-processador (SASS ou Less), certifique-se de incluir os arquivos correspondentes no repositório.
