@@ -10,3 +10,4 @@
 - Adicionado exercício do módulo 16 na branch exercicio_gulp
 - Adicionado exercício do módulo 17 na branch exercicio_less
 - Adicionado exercício do módulo 18 na branch exercicio_grunt
+- Adicionado exercício do módulo 19 na branch boas_praticas_css
