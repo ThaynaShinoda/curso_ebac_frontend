@@ -1,13 +1,9 @@
 # Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
-- Adicionado exercício do módulo 7 na branch exercicio_html_js
-- Adicionado exercício do módulo 9 na branch exercicio_jquery
-- Adicionado exercício de módulo 12 na branch exercicio_bootstrap
-- Adicionado exercício do módulo 15 na branch exercicio_sass
-- Adicionado exercício do módulo 16 na branch exercicio_gulp
-- Adicionado exercício do módulo 17 na branch exercicio_less
-- Adicionado exercício do módulo 18 na branch exercicio_grunt
-- Adicionado exercício do módulo 19 na branch boas_praticas_css
+## Exercício do módulo 23
+
+1. Adaptar o projeto disponibilizado na plataforma para que os dados sejam preenchidos via requisição Ajax.
+2. Usar o que aprendeu no módulo sobre try catch fetch API ou xmlHttpRequest.
+3. Criar uma branch chamada exercicio_ajax no repositório do projeto (Github).
+4. Armazenar o código alterado lá.
+5. Enviar o link do repositório através da plataforma.
