@@ -1,14 +1,12 @@
 # Curso: Desenvolvedor Full Stack Python - EBAC
 
-- Adicionado exercício do módulo 2 na branch exercicio_git
-- Adicionado exercício do módulo 3 na branch exercicio_html
-- Adicionado exercício do módulo 4 na branch exercicio_css
-- Adicionado exercício do módulo 7 na branch exercicio_html_js
-- Adicionado exercício do módulo 9 na branch exercicio_jquery
-- Adicionado exercício de módulo 12 na branch exercicio_bootstrap
-- Adicionado exercício do módulo 15 na branch exercicio_sass
-- Adicionado exercício do módulo 16 na branch exercicio_gulp
-- Adicionado exercício do módulo 17 na branch exercicio_less
-- Adicionado exercício do módulo 18 na branch exercicio_grunt
-- Adicionado exercício do módulo 19 na branch boas_praticas_css
-- Adicionado exercício do módulo 23 na branch exercicio_ajax
+## Exercício do módulo 24
+1. Crie uma classe de uma abstração;
+
+2. Crie pelo menos duas classes que sejam herdeiras da classe criada anteriormente;
+
+3. Crie pelo menos três instâncias de objetos;
+
+4. No repositório do curso crie uma branch chamada oo_js e armazene o código do exercício.
+
+5. Envie o link do repositório através da plataforma. 
