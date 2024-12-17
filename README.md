@@ -12,3 +12,4 @@
 - Adicionado exercício do módulo 18 na branch exercicio_grunt
 - Adicionado exercício do módulo 19 na branch boas_praticas_css
 - Adicionado exercício do módulo 23 na branch exercicio_ajax
+- Adicionado exercício do módulo 24 na branch oo_js
