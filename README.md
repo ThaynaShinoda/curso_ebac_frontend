@@ -14,3 +14,4 @@
 - Adicionado exercício do módulo 23 na branch exercicio_ajax
 - Adicionado exercício do módulo 24 na branch oo_js
 - Adicionado exercício do módulo 25 na branch exercicio_es6
+- Adicionado exercício do módulo 26 na branch exercicio_ts
